@@ -1,0 +1,52 @@
+
+Baseline CNVs are from oncoSNP
+
+File rankings are from CalcCNV.sh
+
+Using files:
+
+Low CNVs genome-wide, none in panel
+
+#1 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0180.aug.cnvs with a score of 0:1
+#2 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0020.aug.cnvs with a score of 0:2
+
+Minor CNVs genome-wide, none in panel
+
+#53 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0330.aug.cnvs with a score of 0:25
+#54 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0182.aug.cnvs with a score of 0:27
+
+One CNV panel-wide, low genome-wide
+
+#55 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0387.aug.cnvs with a score of 1:6
+#56 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0307.aug.cnvs with a score of 1:8
+
+
+Minor CNVs genome and panel-wide
+
+#99 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0308.aug.cnvs with a score of 5:14
+#100 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0230.aug.cnvs with a score of 5:19
+
+Minor CNVs panel-wide, moderate genome-wide
+
+#124 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0360.aug.cnvs with a score of 7:82
+#125 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0315.aug.cnvs with a score of 7:129
+#152 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0188.aug.cnvs with a score of 9:144
+
+Many CNVs panel-wide, numerous genome-wide
+#220 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0102.aug.cnvs with a score of 16:370
+#236 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0272.aug.cnvs with a score of 18:259
+#248 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0339.aug.cnvs with a score of 19:325
+
+Many CNVs panel-wide and genome-wide
+#274 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0096.aug.cnvs with a score of 23:96
+#275 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0019.aug.cnvs with a score of 23:99
+
+Most CNVs out of all sampled
+#363 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0062.aug.cnvs with a score of 79:300
+#364 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0363.aug.cnvs with a score of 79:371
+#365 : /morinlab/projects/2016_dlbcl_dlc_lymphoma_gene_pool/analysis/oncoSNP/3-augmented_oncoSNP/DLC_0231.aug.cnvs with a score of 81:108
+
+
+
+
+
